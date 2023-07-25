@@ -8,8 +8,8 @@ TechStack used - SpringBoot, JPA/Hibernate, MySQL
 
 
 End Points exposed -
-For adding Vehicle data  -  /add/vehicles - POST method
-For fetching nearest vehicles data  -  /recommend/nearest/vehicles  - GET method
+1. For adding Vehicle data  -  /add/vehicles - POST method
+2. For fetching nearest vehicles data  -  /recommend/nearest/vehicles  - GET method
 
 
 Parameters - 
