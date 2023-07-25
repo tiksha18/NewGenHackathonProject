@@ -13,8 +13,8 @@ End Points exposed -
 
 
 Parameters - 
-Manadatory params - LocationId and Number of passengers
-Optional param - Vehicle Category
+1. Manadatory params - LocationId and Number of passengers
+2. Optional param - Vehicle Category 
 
 
 Added functionalities - 
